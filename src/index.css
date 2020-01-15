@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.margin-left-20 {
+  margin-left: 20px;
+}
+
+.contactApp {
+  margin-Left: 30px;
+  margin-top: 30px;
+  margin-right: 30px;
+  background-Color: #7DCEA0;
+  border: 5px solid #145A32;
+  padding: 10px;
+}
